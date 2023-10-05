@@ -1,0 +1,6 @@
+[submodule "proxy-service"]
+	path = proxy-service
+	url = https://github.com/SergioEstebanPi/proxy-service.git
+[submodule "control-service"]
+	path = control-service
+	url = https://github.com/SergioEstebanPi/control-service.git
