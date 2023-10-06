@@ -4,3 +4,6 @@
 [submodule "control-service"]
 	path = control-service
 	url = https://github.com/SergioEstebanPi/control-service.git
+[submodule "client-web"]
+	path = client-web
+	url = https://github.com/SergioEstebanPi/client-web.git
